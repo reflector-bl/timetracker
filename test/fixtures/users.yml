@@ -1,0 +1,17 @@
+one:
+  id: 1
+  fname: Barry
+  lname: Levin
+  company_id: 4
+
+two:
+  id: 2
+  fname: Joel
+  lname: Eisenberg
+  company_id: 5
+
+three:
+  id: 3
+  fname: Brian
+  lname: Hoke
+  company_id: 1
